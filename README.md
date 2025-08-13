@@ -1,4 +1,4 @@
-# (UPDATE IN README.md) Project Title
+# Assessing the Path to Improved Water and Sanitation Access in Urban Areas
 
 (UPDATE IN README.md)
 Briefly describe the purpose/result(s) of your project, the skills you applied, and the AI4ALL Ignite program.
