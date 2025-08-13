@@ -46,15 +46,8 @@ Include any relevant data sources that were used in your project.
 *Kaggle Datasets: [Link to Kaggle Dataset](https://www.kaggle.com/datasets)*
 
 ## Technologies Used <!--- do not change this line -->
-
-(UPDATE IN README.md)
-List the technologies, libraries, and frameworks used in your project.
-
-*EXAMPLE:*
+- *Facebook Prophet*
 - *Python*
-- *pandas*
-- *OpenAI API*
-
 
 ## Authors <!--- do not change this line -->
 
@@ -63,5 +56,7 @@ List the names and contact information (e.g., email, GitHub profiles) of the aut
 
 *EXAMPLE:*
 *This project was completed in collaboration with:*
-- *John Doe ([john.doe@example.com](mailto:john.doe@example.com))*
-- *Jane Smith ([jane.smith@example.com](mailto:jane.smith@example.com))*
+- *Alison Lau*
+- *Kenechi Obiozor*
+- *Alaya McCall*
+- *Ricardo Urbaez*
