@@ -45,6 +45,8 @@ Include any relevant data sources that were used in your project.
 
 *EXAMPLE:*
 *Dataset: [Link to Dataset](https://data.humdata.org/dataset/basic-services/resource/db68942b-17d6-485d-9476-88ffc5777a02)*
+*[The Complete Guide to Time Series Forecasting models]( https://medium.com/@wainaina.pierre/the-complete-guide-to-time-series-forecasting-models-ef9c8cd40037 
+)
 
 ## Technologies Used <!--- do not change this line -->
 - *Facebook Prophet*
