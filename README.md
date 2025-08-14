@@ -44,8 +44,8 @@ Enumerate the main results of this project in a list and describe them.
 Include any relevant data sources that were used in your project.
 
 *EXAMPLE:*
-- *Dataset: [Link to Dataset](https://data.humdata.org/dataset/basic-services/resource/db68942b-17d6-485d-9476-88ffc5777a02)*
-- *[The Complete Guide to Time Series Forecasting models]( https://medium.com/@wainaina.pierre/the-complete-guide-to-time-series-forecasting-models-ef9c8cd40037)
+- *Dataset: [Access to basic services in cities and urban areas. United Nations Human Settlements Programme](https://data.humdata.org/dataset/basic-services/resource/db68942b-17d6-485d-9476-88ffc5777a02)*
+- *[The Complete Guide to Time Series Forecasting models]( https://medium.com/@wainaina.pierre/the-complete-guide-to-time-series-forecasting-models-ef9c8cd40037)*
 - *[Joint Monitoring Programme: Water Supply, Sanitation and Hygiene](https://washdata.org)*
 - *[Global report on sanitation and wastewater management in cities and human settlements](https://unhabitat.org/global-report-on-sanitation-and-wastewater-management-in-cities-and-human-settlements)*
 
